@@ -77,6 +77,7 @@
         - [3.3.2. 预测值的分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.2-预测值的分布)
         - [3.3.3. 等价核](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.3-等价核)
     - [3.4 比较贝叶斯模型](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-04-Bayesian-Model-Comparison.ipynb)
+    - [3.5 Evidence 的近似](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03.05-The-Evidence-Approximation.ipynb)
 
 ### 第二部分 DP 笔记
 
