@@ -77,7 +77,7 @@
         - [3.3.2. 预测值的分布](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.2-预测值的分布)
         - [3.3.3. 等价核](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-03-Bayesian-Linear-Regression.ipynb#3.3.3-等价核)
     - [3.4 比较贝叶斯模型](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-04-Bayesian-Model-Comparison.ipynb)
-    - [3.5 Evidence 的近似](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03.05-The-Evidence-Approximation.ipynb)
+    - [3.5 Evidence 的近似](Pattern-Recognition-and-Machine-Learning/Chap-03-Linear-Models-for-Regression/03-05-The-Evidence-Approximation.ipynb)
 
 ### 第二部分 DP 笔记
 
@@ -94,6 +94,7 @@
         - [2.9 Moore-Penrose 伪逆](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-09-The-Moore-Penrose-Pseudoinverse.ipynb)
         - [2.10 矩阵的迹](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-10-The-Trace-Operator.ipynb)
         - [2.11 行列式](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-11-The-Determinant.ipynb)
+        - [2.12 例子：主成分分析](Deep-Learning/Part-I/Chap-02-Linear-Algebra/02-12-Example-Principal-Components-Analysis.ipynb)
 
 ----
 
